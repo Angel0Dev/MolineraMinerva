@@ -1,5 +1,5 @@
 <?php
-const BASE_URL = "http://localhost/PorVerse/";
+const BASE_URL = "http://localhost/MolineraMinerva/";
 const HOST = "localhost";
 const USER = "root";
 const PASS = "";
